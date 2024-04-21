@@ -5,3 +5,8 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - matplotlib
+  - numpy
+  - scipy
+  - ipympl
+  - ipyleaflet

@@ -11,4 +11,3 @@ dependencies:
   - ipympl
   - ipyleaflet
   - sympy
-  - voila
